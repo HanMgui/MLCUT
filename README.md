@@ -1,6 +1,6 @@
-[arXiv](https://arxiv.org/abs/2104.07689)  |  [Video](https://youtu.be/w0oltXvLgmI)  |  [Slide](imgs/DCLGAN_slide.pptx)
+# [arXiv](https://arxiv.org/abs/2104.07689)  |  [Video](https://youtu.be/w0oltXvLgmI)  |  [Slide](imgs/DCLGAN_slide.pptx)
 
-# Dual Contrastive Learning Adversarial Generative Networks (DCLGAN)
+# Multi-level contrast strategy for unpaired image-to-image translation (MLCUT)
 
 We provide our PyTorch implementation of DCLGAN, which is a simple yet powerful model for unsupervised Image-to-image translation. Compared to CycleGAN, DCLGAN performs geometry changes with more realistic results. Compared to CUT, DCLGAN is usually more robust and achieves better performance. A viriant, SimDCL (Similarity DCLGAN) also avoids mode collapse using a new similarity loss.
 
